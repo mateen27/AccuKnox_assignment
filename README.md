@@ -17,7 +17,7 @@ The Dashboard Widget Manager is a modern web application built with React.js, Ta
 
 To set up the project locally, follow these steps:
 ```bash
-git clone https://github.com/mateen27/AccuKnox_assignment.git
+git clone https://github.com/mateen27/Accuknox.git
 ```
 
 ## Step 2: Navigate to the project folder
